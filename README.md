@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSami001
 - 👀 I’m interested in ... coding and making exciting projects.
-- 🌱 I’m currently learning ... Mearn and PHP.
+- 🌱 I’m currently learning ... Mern and PHP.
 - 💞️ I’m looking to collaborate ... with some talented persons to make some amazing projects.
 - 📫 How to reach me ... by using my email m.sami001ms@gmail.com.
 - 😄 Pronouns: ... He/Him
